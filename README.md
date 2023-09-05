@@ -13,4 +13,4 @@ A jornada do aprendizado é uma jornada conjunta, e estou ansioso para ver como 
 
 Compartilhando o conhecimento,</h2>
 
-<h1> ["Nós somos Anonymous. Somos numerosos. Nós não esquecemos. Nós não perdoamos. Esperem por nós."] </h1>
+<h1> ["Nós somos Anonymous. Nós não esquecemos. Nós não perdoamos. Esperem por nós."] </h1>
